@@ -1,5 +1,4 @@
 # Test Cases – FIT4012 Lab 2
-
 ## Caesar Cipher
 - [x] Encrypt `I LOVE YOU` với key `3`
 - [x] Encrypt `hello world` với key `5`
